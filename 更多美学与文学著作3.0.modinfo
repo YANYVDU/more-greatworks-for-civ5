@@ -3,7 +3,7 @@
   <Properties>
     <Name>更多美学与文学著作3.0</Name>
     <Teaser>添加了大量美学与文学著作及对应的作者,适配没有修改大文学家及大美术家的所有mod</Teaser>
-    <Description>新增了161个文学作品，其中有56个中国作品</Description>
+    <Description>在Loren Sandboe (Qoma)的mod基础上，新增了大量文学作品，以中国传统诗词和文学作品为主</Description>
     <Authors>"Loren Sandboe (Qoma)（原作者）、杜炎宇（美术翻译及诗词增补）、复读姬（文学翻译及内容增订）</Authors>
     <SpecialThanks>Firaxis、 XboxAddict77、 donquiche、复读姬、想想想飞天、兔兔派、诶嘿怪、catgrep</SpecialThanks>
     <HideSetupGame>0</HideSetupGame>
@@ -123,9 +123,6 @@
     <File md5="9A47667C2EDAKLDGFNALDGKASPDGD03A" import="0">Writer - Text/FDJ_GW_Text.xml</File>
     <File md5="9A476ALDKGJNASDOLKDFEW193005D03A" import="0">Writer - Text/FDJ_GN_Text.xml</File>
     <File md5="f9871e5b6888c5a7cb06a17cb7af1443" import="0">Writer - Units/FDJ_GreatWriter.xml</File>
-    <File md5="2e5529af3ee80f2be894aa2f9c12be44" import="0">Writer - Text/CN_POETRY_Text.xml</File>
-    <File md5="44c72cb136603af2d2f7a5d05a2b2e1f" import="0">Writer - Great Works\CN_POETRY_GW.xml</File>
-    <File md5="a5a6e5213b24960deb1a900ee09b3203" import="0">Writer - Units\CN_POETRY_UW.xml</File>
     <File md5="740123a73de46a4cc0b28789aa5ab039" import="0">UPDATE_MGW.sql</File>
   </Files>
   <Actions>
@@ -142,9 +139,6 @@
       <UpdateDatabase>Writer - Text/FDJ_GW_Text.xml</UpdateDatabase>
       <UpdateDatabase>Writer - Great Works/FDJ_GreatWorks.xml</UpdateDatabase>
       <UpdateDatabase>Writer - Units/FDJ_GreatWriter.xml</UpdateDatabase>
-      <UpdateDatabase>Writer - Text/CN_POETRY_Text.xml</UpdateDatabase>
-      <UpdateDatabase>Writer - Great Works\CN_POETRY_GW.xml</UpdateDatabase>
-      <UpdateDatabase>Writer - Units\CN_POETRY_UW.xml</UpdateDatabase>
       <UpdateDatabase>UPDATE_MGW.sql</UpdateDatabase>
     </OnModActivated>
   </Actions>

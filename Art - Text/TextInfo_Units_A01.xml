@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREATA_PERSON_AFFANDI">
+			<Text>阿凡迪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_MARCEL_DUCHAMP">
+			<Text>马塞尔·杜尚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_MAX_ERNST">
+			<Text>马克斯 恩斯特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_JASPER_JOHNS">
+			<Text>贾斯培·琼斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_M_C_ESCHER">
+			<Text>M. C.埃舍尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_EDVARD_MUNCH">
+			<Text>爱德华·蒙克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_JACKSON_POLLOCK">
+			<Text>杰克逊·波洛克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_SALVADOR_DALI">
+			<Text>萨尔瓦多·达利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_FRANCIS_BACON">
+			<Text>弗朗西斯·培根</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_WASSILY_KANDINSKY">
+			<Text>瓦西里·康定斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_CHARLES_DEMUTH">
+			<Text>查尔斯·德穆斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_THEOPHANES">
+			<Text>西奥芬尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_GEORGES_BRAQUE">
+			<Text>乔治·布拉克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_FRANZ_MARC">
+			<Text>弗朗兹·马尔克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_GEORGES_ROUAULT">
+			<Text>乔治·鲁奥</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_UMBERTO_BOCCIONI">
+			<Text>翁贝托·波丘尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_PARMIGIANINO">
+			<Text>帕米贾尼诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_ROSSO_FIORENTINO">
+			<Text>罗素・菲伦蒂诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_JEAN_AUGUSTE_DOMINIQUE_INGRES">
+			<Text>让·奥古斯特·多米尼克·安格尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_PAUL_SIGNAC">
+			<Text>保罗·西涅克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_ANDY_WARHOL">
+			<Text>安迪·沃霍尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_ROY_LICHTENSTEIN">
+			<Text>罗伊·利希滕斯坦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_ROBERT_RAUSCHENBERG">
+			<Text>罗伯特·劳森伯格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_HENRI_MATISSE">
+			<Text>亨利·马蒂斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_MARC_CHAGALL">
+			<Text>马克·夏卡尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_JOAN_MIRO">
+			<Text>胡安·米罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_ALBRECHT_DURER">
+			<Text>阿尔布雷特·丢勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_HIERONYMUS_BOSCH">
+			<Text>耶罗尼米斯·博斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_NORMAN_ROCKWELL">
+			<Text>诺曼·洛克威尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_WILLIAM_TURNER">
+			<Text>约瑟夫·马洛德·威廉·透纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_MARK_ROTHKO">
+			<Text>马克·罗斯科</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_PIET_MONDRIAN">
+			<Text>彼埃·蒙德里安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_GUSTAVE_DORE">
+			<Text>古斯塔夫·多雷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_MASACCIO">
+			<Text>马萨乔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_GUSTAVE_COURBET">
+			<Text>居斯塔夫·库尔贝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_NICOLAS_POUSSIN">
+			<Text>尼古拉斯·普桑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_WILLEM_DE_KOONING">
+			<Text>威廉·德·库宁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_PAUL_KLEE">
+			<Text>保罗·克利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_KAZIMIR_MALEVICH">
+			<Text>卡西米尔·塞文洛维奇·马列维奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_EDWARD_HOPPER">
+			<Text>爱德华·霍普</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_JEAN_LOUIS_THEODORE_GERICAULT">
+			<Text>西奥多·杰利柯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_CIMABUE">
+			<Text>奇马布埃</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_JAMES_ENSOR">
+			<Text>詹姆斯·恩索尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_EL_LISSITZKY">
+			<Text>埃尔·里茨斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_EGON_SCHIELE">
+			<Text>埃贡·席勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_RENE_MAGRITTE">
+			<Text>勒内·马格里特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_GERHARD_RICHTER">
+			<Text>格哈德·里希特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_FERNAND_LEGER">
+			<Text>费尔南德·莱热</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_SAM_WEBER">
+			<Text>山姆·韦伯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_QUINTEN_MATSYS">
+			<Text>昆丁·马西斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_BENITO_QUINQUELA_MARTIN">
+			<Text>贝尼托·昆奎拉·马丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_GEBROEDERS_VAN_LIMBURG">
+			<Text>范林博齐兄弟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_UTAGAWA_KUNIYOSHI">
+			<Text>歌川国芳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_TOM_THOMSON">
+			<Text>汤姆·汤姆森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_JOHN_SINGER_SARGENT">
+			<Text>约翰·辛格·萨金特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_AN_GYEON">
+			<Text>安坚（朝鲜李朝初期画家）</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_PIERO_DI_COSIMO">
+			<Text>皮耶罗·迪·科西莫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_BENOZZO_GOZZOLI">
+			<Text>贝诺佐·戈佐利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_ROGIER_VAN_DER_WEYDEN">
+			<Text>罗吉尔·凡·德尔·维登</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_ALBRECHT_ALTDORFER">
+			<Text>阿尔布雷希特·阿尔特多费尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_JAN_ASSELIJN">
+			<Text>扬·阿塞林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_JAN_STEEN">
+			<Text>扬·斯特恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_THERESE_SCHWARTZE">
+			<Text>泰蕾丝·施瓦茨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_CAREL_FABRITIUS">
+			<Text>卡尔.法布里蒂乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_FRANZ_HALS">
+			<Text>弗兰斯·哈尔斯号</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_ANDERS_ZORN">
+			<Text>安德斯·左恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_ANGELICA_KAUFFMAN">
+			<Text>安吉莉卡·考夫曼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_HELEN_FRANKENTHALER">
+			<Text>海伦·弗兰肯瑟勒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_ARTEMISIA_GENTILESCHI">
+			<Text>阿特米希娅·津迪勒奇</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_DUCCIO">
+			<Text>杜乔·迪·博尼塞尼亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_ROBERT_SELDON_DUNCANSON">
+			<Text>罗伯特·邓肯森</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_ROSA_BONHEUR">
+			<Text>罗莎·邦贺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_RICHARD_DIEBENKORN">
+			<Text>理查德·迪本科恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_BERTHE_MORISOT">
+			<Text>贝尔特·摩里索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_CHAIM_SOUTINE">
+			<Text>柴姆·苏丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_ARSHILE_GORKY">
+			<Text>阿希尔·高尔基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_GEORGIA_OKEEFFE">
+			<Text>乔治娅·奥·吉弗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_PIERRE_BONNARD">
+			<Text>皮耶·勃纳尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_HANS_BELLMER">
+			<Text>汉斯·贝尔默</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_USTAD_MANSUR">
+			<Text>乌斯塔德•曼苏尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_SUSSHU_TOYO">
+			<Text>雪舟 等楊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_ALICE_CARTELET">
+			<Text>船长の爱丽丝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_QQGROUP_U1">
+			<Text>姬姬小姐姐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_QQGROUP_U2">
+			<Text>想想想飞天</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_QQGROUP_A1">
+			<Text>神州单位扩展</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_PERSON_QQGROUP_A2">
+			<Text>诶嘿怪</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

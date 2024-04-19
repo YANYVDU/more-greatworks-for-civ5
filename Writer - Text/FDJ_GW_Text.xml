@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A001">
+			<Text>“萨哈拉？这不是地名，是人名！”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A001">
+			<Text>特殊的女生撒哈拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A002">
+			<Text>“白日依山尽，黄河入海流。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A002">
+			<Text>唐诗三百首</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A003">
+			<Text>“无可奈何花落去，似曾相识燕归来。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A003">
+			<Text>宋词三百首</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A004">
+			<Text>“夕阳西下，断肠人在天涯。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A004">
+			<Text>元曲三百首</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A005">
+			<Text>“你只需要关注你的心灵所关注的东西，其他的一切都由我来负责。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A005">
+			<Text>麦田里的守望者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A006">
+			<Text>“喀伦泡之王！”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A006">
+			<Text>西顿野生动物故事集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A007">
+			<Text>“是，长官！”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A007">
+			<Text>没有任何借口</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A008">
+			<Text>“鹦鹉螺号是很长的圆筒形，两端为圆锥状，很像一支雪茄烟。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A008">
+			<Text>海底两万里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A009">
+			<Text>“盲目可以增加你的勇气，因为你无法看到危险。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A009">
+			<Text>格列佛游记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A010">
+			<Text>“生活就像海洋，只有意志坚强的人，才能到达彼岸。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A010">
+			<Text>鲁滨逊漂流记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A011">
+			<Text>“每次都一样。脚步声好像直接从寂静中一下子响起，慢慢地向她这边移过来。诺拉知道没什么可怕的，不管是谁走来都不会加害于她。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A011">
+			<Text>神秘的公寓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A012">
+			<Text>“它好像先嗅了嗅,然后才咬了一小口。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A012">
+			<Text>时代广场的蟋蟀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A013">
+			<Text>“我什么事情都美美地计划好了,偏偏下雨。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A013">
+			<Text>夏洛的网</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A014">
+			<Text>“食物是天底下最可靠、最温暖、最有力的伙伴。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A014">
+			<Text>狼王梦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A015">
+			<Text>“雪落下来时,就仿佛降临了一股平静的宁静。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A015">
+			<Text>雪国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A016">
+			<Text>“他凭倚在桥栏杆上，闭上眼睛，想倾听那几乎听不见的潺潺流水声，而不是人潮或电车的轰鸣。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A016">
+			<Text>古都</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A017">
+			<Text>“披上一层薄雪的杉林,分外鲜明地一株株耸立在雪地上,凌厉地伸向苍穹。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A017">
+			<Text>千只鹤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A018">
+			<Text>“在这个世界上,没有任何东西是彻底的黑或白。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A018">
+			<Text>罗生门</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A019">
+			<Text>“哪里会有人喜欢孤独，不过是不喜欢失望罢了。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A019">
+			<Text>挪威的森林</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A020">
+			<Text>“我爱你胜过我爱过的任何女人且我等你比等任何女人都久的多,我并不介意你不爱我。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A020">
+			<Text>飘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A021">
+			<Text>“婚姻是一座围城,城外的人想进去,城里的人想出来。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A021">
+			<Text>围城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A022">
+			<Text>“发而能止，之而能持，是为诗之三味。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A022">
+			<Text>管锥编</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A023">
+			<Text>“知其愚者，非大愚也；知其惑者，非大惑也。大惑者，终身不解；大愚者，终身不灵。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A023">
+			<Text>庄子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A024">
+			<Text>“大以为政于天下，使天下之为善者劝，为暴者沮。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A024">
+			<Text>墨子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A025">
+			<Text>“人主之道,静退以为宝。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A025">
+			<Text>韩非子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A026">
+			<Text>“不自见，故明；不自是，故彰；不自伐，故有功；不自矜，故长。夫唯不争，故天下莫能与之争。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A026">
+			<Text>老子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A027">
+			<Text>“马者,所以命形也;白者,所以命色也。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A027">
+			<Text>公孙龙子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A028">
+			<Text>“夫仁者己欲立而立人，己欲达而达人。能近取譬，可谓仁之方也已。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A028">
+			<Text>论语</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A029">
+			<Text>“见不善而不能退，退而不能远，过也。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A029">
+			<Text>大学</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A030">
+			<Text>“自诚明，谓之性；自明诚，谓之教。诚则明矣，明则诚矣。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A030">
+			<Text>中庸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A031">
+			<Text>“君子曰：学不可以已。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A031">
+			<Text>荀子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A032">
+			<Text>“富贵不能淫，贫贱不能移，威武不能屈。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A032">
+			<Text>孟子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A033">
+			<Text>“凡战之道，未战养其财，将战养其力，既战养其气，既胜养其心。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A033">
+			<Text>六韬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A034">
+			<Text>“礼尚往来。往而不来，非礼也，来而不往，亦非礼也。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A034">
+			<Text>礼记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A035">
+			<Text>“博闻强识而让，敦善行而不怠，谓之君子。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A035">
+			<Text>礼经</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A036">
+			<Text>“知为人子，然后可以为人父；知为人臣，然后可以为人君；知事人，然后能使人。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A036">
+			<Text>周礼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A037">
+			<Text>“桃之夭夭，灼灼其华。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A037">
+			<Text>诗经</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A038">
+			<Text>“夫战,勇气也。 一鼓作气,再而衰,三而竭。 彼竭我盈,故克之。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A038">
+			<Text>古文观止</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A039">
+			<Text>“情者文之经，辞者理之纬。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A039">
+			<Text>文心雕龙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A040">
+			<Text>“走过院子，看到那垂落的夹竹桃，我默念着：爸爸的花儿落了，我也不再是小孩子。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A040">
+			<Text>城南旧事</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A041">
+			<Text>“一个人能够放下的东西越多，他就越是富有。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A041">
+			<Text>瓦尔登湖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A042">
+			<Text>“在至冷的日子里走在最荒凉的山丘的人们，无不渴望着有一把圣火能够像点燃炉子一样去温暖自己层层衣物遮盖的内心。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A042">
+			<Text>漫步的艺术</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A043">
+			<Text>“跟一个人相处了两个星期，不可能就此了解他究竟是怎样一个人。 不过，要是我们不去尝试尝试，别人可少不了要尝试的。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A043">
+			<Text>傲慢与偏见</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A044">
+			<Text>“当悲伤来临的时候，不是单个来的，而是成群结队的。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A044">
+			<Text>哈姆雷特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A045">
+			<Text>“一个人只要他有纯洁的心灵，无愁无恨，他的青春时期定可因此而延长。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A045">
+			<Text>红与黑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A046">
+			<Text>“日本人相信”合格“的自我约束可以提高一个人驾驭自己生活的能力。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A046">
+			<Text>菊与刀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A047">
+			<Text>“这些无所事事且心无所想的短暂时间,就像偶尔从云隙间瞥见的蓝天般留在了记忆的各个角落。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A047">
+			<Text>金阁寺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A048">
+			<Text>“真正的光明不是永无黑暗的时刻，真正的英雄也不是永无卑下的情操。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A048">
+			<Text>约翰·克利斯朵夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A049">
+			<Text>“人们天真的幻想终将在残酷的现实中，令人惋惜地走向终结。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A049">
+			<Text>昆虫记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A050">
+			<Text>“物竞天择，适者生存。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A050">
+			<Text>物种起源</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A051">
+			<Text>“我回过身仰视着你，看到你似乎未经时光琢磨的面庞，停留着片刻的苍然。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A051">
+			<Text> 暮城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A052">
+			<Text>“人的寂寞,有时候很难用语言表达。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A052">
+			<Text>边城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A053">
+			<Text>“希望是本无所谓有，无所谓无的。这正如地上的路。其实地上本没有路，走的人多了，也便成了路。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A053">
+			<Text>回忆鲁迅先生</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A054">
+			<Text>“满天星光，满屋月亮，人生何似，为什么这么悲凉。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A054">
+			<Text>呼兰河传</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A055">
+			<Text>“这一切似乎多么遥远！我活着，我活过，我曾经活过。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A055">
+			<Text>耻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A056">
+			<Text>“为你，千千万万遍。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A056">
+			<Text>追风筝的人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A057">
+			<Text>“预感总是倏然来临，灵光一现，好像一种确凿无疑的信念在瞬间萌生却无从捕捉。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A057">
+			<Text>百年孤独</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A058">
+			<Text>“如果你也和我一样爱我，只有死亡才能使你我分开。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A058">
+			<Text>绿山墙的安妮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A059">
+			<Text>“时间的流逝给他带来的是对命运的屈从和一种比寻常的欢乐更甜美的沉思。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A059">
+			<Text>呼啸山庄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A060">
+			<Text>“脾气的随和或乖戾昭示着心灵的善良或歹恶。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A060">
+			<Text>热爱生命</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A061">
+			<Text>“每个人都把自己当做钻石，而在别人眼里看来，却只不过是钻石的同素异形体：碳。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A061">
+			<Text>海狼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A062">
+			<Text>“人生就像是一场旅行，我们必须学会忍受孤独和疲惫，然后坚定地向前走。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A062">
+			<Text>老人与海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A063">
+			<Text>“此刻烦躁的心情就像用十除以三得出的结果一样，无穷无尽。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A063">
+			<Text>我是猫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A064">
+			<Text>“你没有听到，精神是怎样在这里变成语言游戏？它吐出令人厌恶的语言脏水！”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A064">
+			<Text>查拉图斯特拉如是说 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A065">
+			<Text>“ 我爱她,但不能跟她说话,我窥视着她,以便不与她相遇。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A065">
+			<Text>变形记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A066">
+			<Text>“也许每一个人在生命的某一刻都曾对自己说过，‘你并不比我强多少，我同你一样，我们都是凡人’。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A066">
+			<Text>城堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A067">
+			<Text>“真实的色彩是十分美妙的，需要的是更加清澈的眼光。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A067">
+			<Text>雾都孤儿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A068">
+			<Text>“其状如狸而白首,名曰天狗,其音如榴榴,可以御凶。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A068">
+			<Text>山海经</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A069">
+			<Text>“令人深思的是,生活在世间,但不被它牵绊,方能看得出其独特之处。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A069">
+			<Text>十日谈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A070">
+			<Text>“我的主人说，“那，下一班车几点从这里经过啊？”喜怒不形于色的绅士只“哦”了一声。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A070">
+			<Text>八十天环游地球</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A071">
+			<Text>“你瞧这座由火山构成的岛屿，在冰岛语中，约库尔意为‘冰川’。由于冰岛处于高纬度，那儿的火山爆发时都必须穿过冰层，因此岛上的火山全都被称作‘约库尔’了。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A071">
+			<Text>地心游记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A072">
+			<Text>“回家的路上，我一直感到孤单，身边有人时也是如此。我之所以回家，是为了能够沉静于孤独的梦幻和忧郁。今天这种忧郁通向何方呢？是死亡。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A072">
+			<Text>拿破仑传</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A073">
+			<Text>“诚实的“美”走在正中，“天真”走在两旁，背后簇拥着她的是头脑简单的“虚荣”。 失真之后 因为世界不过是一种心灵的现象，它的外表便是它自己。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A073">
+			<Text>苔丝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A074">
+			<Text>“许多战士在战场上死了，吃的东西没有了，人们在恐怖的气氛中苦熬着。夏日，一如既往地降临到人间。太阳，不分战胜国还是战败国，不加歧视地送来了阳光。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A074">
+			<Text>窗边的小豆豆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A075">
+			<Text>“一个嘻嘻哈哈哈的红军手里摇晃着公鸡。回答她说：“老大娘，这只公鸡喊反苏维埃政权的口号，所以我们判处它死刑。你不要央告啦，我们要用它来煮面条吃，我们给你一双旧靴子来换它。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A075">
+			<Text>静静的顿河</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A076">
+			<Text>“在这场罕见的雪里，再不会有人来轻轻叩响我那单薄而脆弱的柴门了。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A076">
+			<Text>乞力马扎罗的雪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A077">
+			<Text>“直言不讳是件极为困难的事，甚至越是想直言不讳，直率的言语越是遁入黑暗的深处。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A077">
+			<Text>且听风吟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A078">
+			<Text>“人生就像一场戏，每个人都在扮演着不同的角色，但无论你扮演什么角色，都要尽力去演好它。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A078">
+			<Text>死魂灵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A079">
+			<Text>“人们往往把欲望的满足看成幸福。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A079">
+			<Text>安娜·卡列尼娜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A080">
+			<Text>“我所谓的伟大不是走红的政治家或是立战功的军人的伟大；这种人显赫一时，与其说是他们本身的特质倒不如说沾了他们地位的光，一旦事过境迁，他们的伟大也就黯然失色了。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A080">
+			<Text>月亮与六便士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A081">
+			<Text>“总有一天，宽容将成为法则。可能需要一万年，也可能需要十万年。但是，那一天一定会到来的，它将紧随人类有史以来获得的第一个真正的胜利——战胜自身恐惧的胜利——而到来的。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A081">
+			<Text>宽容</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A082">
+			<Text>“人类所有的力量 ,只是耐心加上时间的混合。所谓强者既有意义,又有等待时机。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A082">
+			<Text>欧也妮·葛朗台</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A083">
+			<Text>“有些人早就认为这个世界上没有什么需要避讳的事情，现在谈起他来却这样窃窃私语，这一点也足以证明他引起了人们何等浪漫的遐想了。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A083">
+			<Text>了不起的盖茨比</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A084">
+			<Text>“海风送凉，残月西沉，天空明净如水，人间肃静无声。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A084">
+			<Text>源氏物语</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A085">
+			<Text>“有这样一句流传很广的话，世界上有两件事最难：一是把自己的思想装进别人的脑袋，二是把别人的钱装进自己的口袋。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A085">
+			<Text>金字塔原理</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A086">
+			<Text>“世间的一切结果都是鸡毛蒜皮，整日为功名利禄操劳烦恼，不顾到自己的热情和需要，永远是傻子。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A086">
+			<Text>少年维特的烦恼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A087">
+			<Text>“美是事物的最有价值的一面，美感的经验是人生中最有价值的一面。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A087">
+			<Text>谈美</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A088">
+			<Text>“在长远看来,过多的安全似乎只能带来危险。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A088">
+			<Text>沙乡年鉴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A089">
+			<Text>“地势坤，君子以厚德载物”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A089">
+			<Text>易传</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A090">
+			<Text>“此情只应天上有，安得相会在人间。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A090">
+			<Text>浮生六记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A091">
+			<Text>“不过我也曾接受过缪斯女神的教导，同样需要侍奉她们，当你斩断自然的强大联系，使生者深陷漫长永恒的梦。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A091">
+			<Text>罗马神话</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A092">
+			<Text>““悲哀！”蜉蝣总是这样回答说。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A092">
+			<Text>安徒生童话</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A093">
+			<Text>“虚荣是灾祸的根源。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A093">
+			<Text>伊索寓言</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A094">
+			<Text>“春天的雪,从天空落下,如同白色的花瓣,飘散在大地上。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A094">
+			<Text>春雪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A095">
+			<Text>“我对人类畏葸不已，并因此战栗，对身为人类一员的自我言行也缺乏自信，只好将独自一人的懊恼深藏在胸中的小盒子里，将精神上的忧郁和过敏密闭起来，伪装成天真无邪的乐天外表，使自己一步一步地彻底变成了一个滑稽逗笑的畸形人。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A095">
+			<Text>人间失格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A096">
+			<Text>“喝茶当于瓦屋纸窗之下，清泉绿茶，用素雅的陶瓷茶具，同二三人共饮，得半日之闲，可抵十年的尘梦。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A096">
+			<Text>雨天的书</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A097">
+			<Text>“冷冷的风,把细雪拂过,把温暖的思念拂过。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A097">
+			<Text>细雪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A098">
+			<Text>“智而能愚，则天下之智莫加焉。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A098">
+			<Text>郁离子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A099">
+			<Text>“我从来就没有太阳,所以不怕失去。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A099">
+			<Text>白夜行</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A100">
+			<Text>“生活能不能幸福取决于思想的品质。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A100">
+			<Text>沉思录</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A101">
+			<Text>“喝一杯酒，算得了什么，居然拒绝，在药剂师看来，是最要不得的一种虚伪。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A101">
+			<Text>包法利夫人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A102">
+			<Text>“那是最美好的时代，那是最糟糕的时代。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A102">
+			<Text>双城记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A103">
+			<Text>“不应有恨，何事长向别时圆？”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A103">
+			<Text>苏轼文选集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A104">
+			<Text>“宁可湿衣,不可乱步。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A104">
+			<Text>镜花缘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A105">
+			<Text>“这个世界是稳定的，人们生活富裕，幸福安康；他们从不生病，也不惧怕死亡；他们对激情和衰老一无所知，实乃天赐之福。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A105">
+			<Text>美妙的新世界</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A106">
+			<Text>“正义就是把善给予友人，把恶给予敌人。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A106">
+			<Text>理想国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A107">
+			<Text>“卡捷琳娜·伊万诺夫娜伯爵夫人以为我在公事方面可以对丈夫施加影响。她错了。我不能，也不愿意插手他的事。不过，当然啰，为了伯爵夫人，为了您，我可以破一次例。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A107">
+			<Text>复活</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A108">
+			<Text>“每个人都会有缺陷,就像被上帝咬过的苹果,有的人缺陷比较大,正是因为上帝特别喜欢他的芬芳。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A108">
+			<Text>战争与和平</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A109">
+			<Text>“我们真正热爱这个世界时，才真正活在这个世界上。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A109">
+			<Text>飞鸟集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A110">
+			<Text>“就只是她的性情爽利,口角锋芒些,究竟也不曾得罪你们。想是她过于生的好了,反被这好所误。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A110">
+			<Text>被侮辱与被损害的人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A111">
+			<Text>“控制过去的人控制未来,控制现在的人控制过去。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A111">
+			<Text>一九八四</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A112">
+			<Text>“我听到自己的心跳。我不能想象,长期以来陪伴我的这种声音会一朝停止。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A112">
+			<Text>局外人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A113">
+			<Text>“要熟悉一座城市,也许最简单的途径是了解生活在其中的人们如何工作,如何相爱和死亡。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A113">
+			<Text>鼠疫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A114">
+			<Text>“大家为一人,一人为大家。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A114">
+			<Text>三个火枪手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A115">
+			<Text>“乡土中国,是我们根植的土地,是我们灵魂的栖息地。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A115">
+			<Text>乡土中国</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A116">
+			<Text>“利而诱之，乱而取之，实而备之，强而避之，怒而挠之，卑而骄之，佚而劳之，亲而离之，攻其无备，出其不意。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A116">
+			<Text>孙子兵法</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A117">
+			<Text>“善战者见敌之所长，则知其所短；见敌之所不足，则知其所有余。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A117">
+			<Text>孙膑兵法</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A118">
+			<Text>“据兵之先，唯机与势。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A118">
+			<Text>兵经百字</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A119">
+			<Text>“后则用阴，先则用阳；尽敌阳节，盈否阴节而夺之。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A119">
+			<Text>唐李问对</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A120">
+			<Text>“取之有度，用之有节，则常足。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A120">
+			<Text>资治通鉴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A121">
+			<Text>“因其材以取之,审其能以任之,用其所长,掩其所短。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A121">
+			<Text>贞观政要</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A122">
+			<Text>“虚灵不昧，众理具而万事出，心外无理，心外无事。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A122">
+			<Text>传习录</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A123">
+			<Text>“达人观物外之物,思身后之身,守受一时之寂寞,毋取万古之凄凉。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A123">
+			<Text>菜根谭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A124">
+			<Text>“人莫可人心，虽贤人免有私弊，何当一正言，使人自省。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A124">
+			<Text>儒林外史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A125">
+			<Text>“集腋为裘，妄续幽冥之录；浮白载笔，仅成孤愤之书。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A125">
+			<Text>聊斋志异</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A126">
+			<Text>“初生之犊猛于虎。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A126">
+			<Text>封神演义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A127">
+			<Text>“有缘千里来相会，无缘对面不相逢。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A127">
+			<Text>水浒传</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A128">
+			<Text>“生子当如孙仲谋。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A128">
+			<Text>三国演义</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A129">
+			<Text>“任凭弱水三千，我只取一瓢饮。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A129">
+			<Text>红楼梦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A130">
+			<Text>“不看僧面看佛面。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A130">
+			<Text>西游记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A131">
+			<Text>“满招损，谦受益。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A131">
+			<Text>尚书</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A132">
+			<Text>“一鼓作气，再而衰，三而竭。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A132">
+			<Text>左传</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A133">
+			<Text>“君子见人之厄则矜制之，小人见人之厄则幸之。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A133">
+			<Text>公羊传</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A134">
+			<Text>“苟焉以入人为志者，人亦入之矣。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A134">
+			<Text>谷梁传</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A135">
+			<Text>“所谓回忆者，虽说可以使人欢欣，有时也不免使人寂寞，使精神的丝缕还牵着已逝的寂寞的时光，又有什么意味呢，而我偏苦于不能全忘却，这不能全忘的一部分，到现在便成了《呐喊》的来由。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A135">
+			<Text>呐喊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A136">
+			<Text>“日子一久，只落得麻痹了翅子，即使放出笼外，早已不能奋飞。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A136">
+			<Text>彷徨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A137">
+			<Text>“在日本留学观看枪毙中国人的纪录片，“万岁！”他们都拍掌欢呼起来。这种欢呼，是每看一片都有的，但在我，这一声却听得特别刺耳。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A137">
+			<Text>朝花夕拾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A138">
+			<Text>“世上的一切生物，包括人类自己，无论走到哪里，无论走得多么远，都永远不能超出其自身的范围。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A138">
+			<Text>简·爱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A139">
+			<Text>“有时，我可能脆弱得一句话就泪流满面，有时，也发现自己咬着牙走了很长的路。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A139">
+			<Text>羊脂球</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A140">
+			<Text>“使沙漠美丽的，是你不知道它在哪藏着一眼泉。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A140">
+			<Text>小王子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A141">
+			<Text>“世上只有一种英雄主义，就是在认清生活真相之后依然热爱生活。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A141">
+			<Text>名人传</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A142">
+			<Text>“这是黄昏的夕阳，我们却当做震旦的旭日。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A142">
+			<Text>巴黎圣母院</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A143">
+			<Text>“你真让我吃惊!我没想到你会这样!不错,我本来想,娶一个不谙世事、单纯天真的女人,塑造好她的性格,给她灌输一些她所必须得坚定果断,这是一件让人高兴的事。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A143">
+			<Text>大卫·科波菲尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A144">
+			<Text>“你自己就没什么责任吗？”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A144">
+			<Text>百万英镑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A145">
+			<Text>“我们的悲哀是生活在愿望之中而没有希望。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A145">
+			<Text>神曲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A146">
+			<Text>“就像古老的凯尔特传说中那胸前带着荆棘的鸟，泣血而啼，呕出了血淋淋的心而死去。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A146">
+			<Text>荆棘鸟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A147">
+			<Text>“排除一切可能，剩下的再不可能也是真相。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A147">
+			<Text>福尔摩斯探案集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A148">
+			<Text>“人，有了物质才能生存；人，有了理想才谈得上生活。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A148">
+			<Text>悲惨世界</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A149">
+			<Text>“当你说谎，你剥夺了他们信任你的权利。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A149">
+			<Text>牛虻</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A150">
+			<Text>“茶花女茶沁香芬醉千伦，花洁瓣雅惊众人。女襟芳华铭心沉，痴迷情坚输其恨。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A150">
+			<Text>茶花女</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A151">
+			<Text>“我买几个橘子去。你就在此地，不要走动。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A151">
+			<Text>背影</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A152">
+			<Text>“思考时，要像一位智者；但讲话时，要像一位普通人。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A152">
+			<Text>人性的弱点</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A153">
+			<Text>“知识就是力量。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A153">
+			<Text>培根随笔集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A154">
+			<Text>“当一个民族沦为奴隶的时候，只要它好好保持住它的语言，就好比掌握了牢房的钥匙。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A154">
+			<Text>最后一课</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A155">
+			<Text>“宁愿丢官赋闲，不可人格扫地！现在是十九世纪。谁都有自尊心！即便我是小人物，可我毕竟不是抽象的人，我有自己的性格。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A155">
+			<Text>变色龙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A156">
+			<Text>“士为知己者死,女为悦己者容。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A156">
+			<Text>战国策</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A157">
+			<Text>“败莫大于不自知。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A157">
+			<Text>吕氏春秋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A158">
+			<Text>“镜中之影，着色人物也；月下之影，写意人物也；镜中之影，钩边画也；月下之影，没骨画也；月中山河之影，天文中地理也；水中星月之象，地理中天文也。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A158">
+			<Text>幽梦影</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A159">
+			<Text>“学者须是务实,不要近名方是。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A159">
+			<Text>近思录</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A160">
+			<Text>“不近人情，举世皆畏途；不察物情，一生俱梦境。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A160">
+			<Text>小窗幽记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FDJ_A161">
+			<Text>“虽然他一直在为争取个人自由而斗争，但是，他却不得不经常做出一些违背自己意愿的事情。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FDJ_A161">
+			<Text>人类群星闪耀时</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

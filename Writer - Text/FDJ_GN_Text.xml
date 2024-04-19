@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A001">
+			<Text>爱斯米·科德尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A002">
+			<Text>蘅塘退士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A003">
+			<Text>朱祖谋</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A004">
+			<Text>钟嗣成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A005">
+			<Text>杰罗姆·大卫·塞林格</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A006">
+			<Text>西顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A007">
+			<Text>瑞芬博瑞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A008">
+			<Text>儒勒·凡尔纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A009">
+			<Text>乔纳森·斯威夫特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A010">
+			<Text>丹尼尔·笛福</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A011">
+			<Text>玛利亚·格里珀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A012">
+			<Text>乔治•塞尔登</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A013">
+			<Text>E・B・怀特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A014">
+			<Text>沈石溪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A015">
+			<Text>川端康成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A016">
+			<Text>川端康成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A017">
+			<Text>川端康成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A018">
+			<Text>芥川龙之介</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A019">
+			<Text>村上春树</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A020">
+			<Text>玛格丽特·米切尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A021">
+			<Text>钱钟书</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A022">
+			<Text>钱钟书</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A023">
+			<Text>庄周</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A024">
+			<Text>墨翟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A025">
+			<Text>韩非</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A026">
+			<Text>李耳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A027">
+			<Text>公孙龙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A028">
+			<Text>孔子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A029">
+			<Text>曾子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A030">
+			<Text>子思</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A031">
+			<Text>荀况</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A032">
+			<Text>孟轲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A033">
+			<Text>姜子牙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A034">
+			<Text>戴圣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A035">
+			<Text>孔子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A036">
+			<Text>周公旦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A037">
+			<Text>佚名</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A038">
+			<Text>吴楚材、吴调侯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A039">
+			<Text>刘勰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A040">
+			<Text>林海音</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A041">
+			<Text>亨利·戴维·梭罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A042">
+			<Text>亨利·戴维·梭罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A043">
+			<Text>简·奥斯汀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A044">
+			<Text>威廉·莎士比亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A045">
+			<Text>司汤达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A046">
+			<Text>鲁思·本尼迪克特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A047">
+			<Text>三岛由纪夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A048">
+			<Text>罗曼·罗兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A049">
+			<Text>让-亨利·卡西米尔·法布尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A050">
+			<Text>查尔斯·达尔文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A051">
+			<Text>复读姬</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A052">
+			<Text>沈从文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A053">
+			<Text>萧红</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A054">
+			<Text>萧红</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A055">
+			<Text>J.M.库切</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A056">
+			<Text>卡勒德·胡赛尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A057">
+			<Text>加夫列尔·加西亚·马尔克斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A058">
+			<Text>露西·莫德·蒙哥马利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A059">
+			<Text>艾米莉·勃朗特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A060">
+			<Text>杰克·伦敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A061">
+			<Text>杰克·伦敦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A062">
+			<Text>欧内斯特·米勒尔·海明威</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A063">
+			<Text>夏目漱石</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A064">
+			<Text>理查·施特劳斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A065">
+			<Text>弗兰兹·卡夫卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A066">
+			<Text>弗兰兹·卡夫卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A067">
+			<Text>查尔斯·狄更斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A068">
+			<Text>刘歆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A069">
+			<Text>乔万尼·薄伽丘</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A070">
+			<Text>儒勒·凡尔纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A071">
+			<Text>儒勒·凡尔纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A072">
+			<Text>埃米尔·路德维希</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A073">
+			<Text>托马斯·哈代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A074">
+			<Text>黑柳彻子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A075">
+			<Text>米哈依尔·亚历山大维奇·肖洛霍夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A076">
+			<Text>欧内斯特·米勒尔·海明威</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A077">
+			<Text>村上春树</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A078">
+			<Text>尼古拉·果戈理</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A079">
+			<Text>列夫·尼古拉耶维奇·托尔斯泰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A080">
+			<Text>威廉·萨默赛特·毛姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A081">
+			<Text>亨德里克·威廉·房龙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A082">
+			<Text>奥诺雷·德·巴尔扎克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A083">
+			<Text>弗朗西斯·斯科特·基·菲茨杰拉德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A084">
+			<Text>紫式部</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A085">
+			<Text>芭芭拉·明托</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A086">
+			<Text>歌德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A087">
+			<Text>朱光潜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A088">
+			<Text>奥尔多·利奥波德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A089">
+			<Text>孔子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A090">
+			<Text>沈复</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A091">
+			<Text>夏尔克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A092">
+			<Text>汉斯·克里斯汀·安徒生</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A093">
+			<Text>伊索</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A094">
+			<Text>三岛由纪夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A095">
+			<Text>太宰治</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A096">
+			<Text>周作人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A097">
+			<Text>谷崎润一郎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A098">
+			<Text>刘基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A099">
+			<Text>东野圭吾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A100">
+			<Text>马可·奥勒留</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A101">
+			<Text>福楼拜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A102">
+			<Text>查尔斯·狄更斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A103">
+			<Text>苏轼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A104">
+			<Text>李汝珍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A105">
+			<Text>赫胥黎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A106">
+			<Text>柏拉图</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A107">
+			<Text>列夫·尼古拉耶维奇·托尔斯泰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A108">
+			<Text>列夫·尼古拉耶维奇·托尔斯泰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A109">
+			<Text>拉宾德拉纳特·泰戈尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A110">
+			<Text>陀思妥耶夫斯基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A111">
+			<Text>乔治·奥威尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A112">
+			<Text>阿尔贝·加缪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A113">
+			<Text>阿尔贝·加缪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A114">
+			<Text>亚历山大·仲马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A115">
+			<Text>费孝通</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A116">
+			<Text>孙武</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A117">
+			<Text>孙膑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A118">
+			<Text>揭暄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A119">
+			<Text>李靖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A120">
+			<Text>司马光</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A121">
+			<Text>吴兢</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A122">
+			<Text>王阳明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A123">
+			<Text>洪应明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A124">
+			<Text>吴敬梓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A125">
+			<Text>蒲松龄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A126">
+			<Text>许仲琳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A127">
+			<Text>施耐庵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A128">
+			<Text>罗贯中</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A129">
+			<Text>曹雪芹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A130">
+			<Text>吴承恩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A131">
+			<Text>孔子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A132">
+			<Text>左丘明</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A133">
+			<Text>公羊高</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A134">
+			<Text>谷梁赤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A135">
+			<Text>鲁迅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A136">
+			<Text>鲁迅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A137">
+			<Text>鲁迅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A138">
+			<Text>夏洛蒂·勃朗特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A139">
+			<Text>居伊·德·莫泊桑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A140">
+			<Text>安托万·德·圣-埃克苏佩里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A141">
+			<Text>罗曼·罗兰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A142">
+			<Text>维克多·雨果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A143">
+			<Text>查尔斯·狄更斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A144">
+			<Text>马克·吐温</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A145">
+			<Text>但丁·阿利吉耶里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A146">
+			<Text>考琳·麦卡洛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A147">
+			<Text>阿瑟·柯南·道尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A148">
+			<Text>维克多·雨果</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A149">
+			<Text>艾捷尔·丽莲·伏尼契</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A150">
+			<Text>亚历山大·小仲马</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A151">
+			<Text>朱自清</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A152">
+			<Text>戴尔·卡耐基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A153">
+			<Text>弗兰西斯·培根</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A154">
+			<Text>阿尔丰斯·都德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A155">
+			<Text>安东·巴甫洛维奇·契诃夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A156">
+			<Text>刘向</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A157">
+			<Text>吕不韦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A158">
+			<Text>张潮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A159">
+			<Text>朱熹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A160">
+			<Text>陈继儒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_FDJ_A161">
+			<Text>斯蒂芬·茨威格</Text>
+		</Row>
+	</Language_en_US>	
+</GameData>

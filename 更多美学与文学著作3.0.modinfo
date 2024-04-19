@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b8186f84-5edc-4185-98ce-a91f18d767c7" version="3">
+  <Properties>
+    <Name>更多美学与文学著作3.0</Name>
+    <Teaser>添加了大量美学与文学著作及对应的作者,适配没有修改大文学家及大美术家的所有mod</Teaser>
+    <Description>新增了161个文学作品，其中有56个中国作品</Description>
+    <Authors>"Loren Sandboe (Qoma)（原作者）、杜炎宇（美术翻译及诗词增补）、复读姬（文学翻译及内容增订）</Authors>
+    <SpecialThanks>Firaxis、 XboxAddict77、 donquiche、复读姬、想想想飞天、兔兔派、诶嘿怪、catgrep</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="DE8C87F74D547B3148944CA09AAD0A1C" import="0">Art - Great Works/GreatWorks_A.xml</File>
+    <File md5="D98EFDB670BD232A66663668F242F214" import="0">Art - Text/TextInfo_GreatWorks_A01.xml</File>
+    <File md5="96D405B90DB1C35EF0CC6ECD9B8D9633" import="0">Art - Text/TextInfo_Units_A01.xml</File>
+    <File md5="EA04C324404C7B826CB49E86ACBAC8FE" import="0">Art - Units/Units_A01.xml</File>
+	  <File md5="cba14711b2de1cefc8e58465456c0e42" import="1">Art/GW_Alice-To-Catgrep.dds</File>
+    <File md5="F93FBD787951659B4D6CA6C9FB1DEADC" import="1">Art/GW_Affandi-Cock-Fight.dds</File>
+    <File md5="b2dc7510bf6b3ab7b7212d69d6ad592f" import="1">Art/GW_QQGROUP_U1.dds</File>
+    <File md5="0d966b68863531e8207e3d67d56a4a1d" import="1">Art/GW_QQGROUP_U2.dds</File>
+    <File md5="16bb4df364cf2c296e6c13709b4bb341" import="1">Art/GW_QQGROUP_A1.dds</File>
+    <File md5="ed42ec3059f6cd4a4289bc4441392fa6" import="1">Art/GW_QQGROUP_A2.dds</File>
+    <File md5="49B725A5178003855ED3B8CE44987A6D" import="1">Art/GW_Albrecht-Altdorfer---The-Battle-of-Alexander-at-Issus.dds</File>
+    <File md5="34883490F11D66381A7B87F6AC07B21B" import="1">Art/GW_Albrecht-Durer---The-Knight-Death-and-the-Devil.dds</File>
+    <File md5="6518E25170CDF4432B577483821EE298" import="1">Art/GW_An-Gyeon---Dream-Journey-to-the-Peach-Blossom-Land.dds</File>
+    <File md5="BCE56BBA31DC5C302203A39AC8B96277" import="1">Art/GW_Anders-Zorn---Omnibus-Paris.dds</File>
+    <File md5="FDD050780F7E7773B48BD9AFEDE01A9D" import="1">Art/GW_Andy-Warhol---Che-Guevera.dds</File>
+    <File md5="7499F8413185994D6493ED96325444F8" import="1">Art/GW_Angelica-Kauffman---Penelope-is-Woken-by-Euryclea.dds</File>
+    <File md5="8EB26DB260E4CD38A68F02998AC6CBA4" import="1">Art/GW_Arshile-Gorky---The-Liver-is-the-Cocks-Comb.dds</File>
+    <File md5="B7492FD6F9CC0DD67DB61B1906284ED4" import="1">Art/GW_Artemisia-Gentileschi---Judith-Beheading-Holofernes.dds</File>
+    <File md5="E5480D31746B1164EB783EAECE923594" import="1">Art/GW_Benito-Quinquela-Martin---Ship-Under-Repair.dds</File>
+    <File md5="8EDD744FFCE49289AE16FD3F934997BD" import="1">Art/GW_Benozzo-Gozzoli---Palaeologus.dds</File>
+    <File md5="34833B2DFBEE5740E3DFAA081F62E9C4" import="1">Art/GW_Berthe-Morisot---The-Old-Track-to-Auvers.dds</File>
+    <File md5="005E5D0A77A6F27DAA41F21C0D3ADECB" import="1">Art/GW_Carel-Fabritius---The-Goldfinch.dds</File>
+    <File md5="0566CD18C4C0B287EA1469D05241219A" import="1">Art/GW_Chaim-Soutine---Carcass-of-Beef.dds</File>
+    <File md5="B1771480FBD93C3158C301862A2DE001" import="1">Art/GW_Charles-Demuth---The-Figure-5-in-Gold.dds</File>
+    <File md5="E5E3DEC38D3358D8E82B1098436F5D8E" import="1">Art/GW_Cimabue---Kristi-Gripande.dds</File>
+    <File md5="EA8EE288BC1D4576C07D1C1F75B8C962" import="1">Art/GW_Duccio---Madonna-and-Child.dds</File>
+    <File md5="9AB686A0DD48DAEB9A872AE63E46AA69" import="1">Art/GW_Edvard-Munch---The-Scream.dds</File>
+    <File md5="3FC660D37AA4336DDB933DA95AED7C1B" import="1">Art/GW_Edward-Hopper---Nighthawks.dds</File>
+    <File md5="C58F7D205F13595279251FBEBE164B35" import="1">Art/GW_Egon-Schiele---Fighter.dds</File>
+    <File md5="539DF1FCFF9DA62871940A0D6A59F141" import="1">Art/GW_El-Lissitzky---Beat-the-Whites-with-the-Red-Wedge.dds</File>
+    <File md5="72E0B713445662E6533148141FE90490" import="1">Art/GW_Fernand-Leger---Soldier-with-a-Pipe.dds</File>
+    <File md5="70C72924647490D144749FDF61B34715" import="1">Art/GW_Francis-Bacon---Study-after-Velazquezs-Portrait-of-Pope-Innocent-X.dds</File>
+    <File md5="8A99274350EE8B322FA64A4A897E8081" import="1">Art/GW_Franz-Hals---Boy-Playing-a-Violin.dds</File>
+    <File md5="8CA7FFC3C57EB46B23C03F7D53D52A78" import="1">Art/GW_Franz-Marc---The-Fox.dds</File>
+    <File md5="CA2891A7304D758C5A9D3D602A059C63" import="1">Art/GW_Gebroeders-van-Limburg---The-Anatomy-of-Man.dds</File>
+    <File md5="C80B8E3A8A368C425050B2E7069C06C1" import="1">Art/GW_Georges-Braque---Clarinet-and-Bottle-of-Rum-on-a-Mantelpiece.dds</File>
+    <File md5="B8210A18392A0305D95AEBCD783C121C" import="1">Art/GW_Georges-Rouault---The-Old-King.dds</File>
+    <File md5="600C8F1280A450522693C15A2AD16790" import="1">Art/GW_Georgia-OKeeffe---From-the-Lake.dds</File>
+    <File md5="B37C51E83CFC1FF3A71CF24F5D2F8FA2" import="1">Art/GW_Gerhard-Richter---Abstract-Painting-780-1.dds</File>
+    <File md5="91C70518FD0727973960AABF7307DEBE" import="1">Art/GW_Gustave-Courbet---The-Man-Made-Mad-by-Fear.dds</File>
+    <File md5="7762D5B4B562D98B82731DEFE97F60A3" import="1">Art/GW_Gustave-Dore---Paolo-and-Francesca-II.dds</File>
+    <File md5="48A90924DAA64DFF7143F5BBE9025066" import="1">Art/GW_Hans-Bellmer---Peg-Top.dds</File>
+    <File md5="5A0410A7E325019BC201A1C7A3570E26" import="1">Art/GW_Helen-Frankenthaler---Mountains-and-Sea.dds</File>
+    <File md5="F9350D98196EA80066B2546DB67AF047" import="1">Art/GW_Henri-Edmond-Cross---The-Iles-dOr.dds</File>
+    <File md5="01D2864B73F476E8A4DCE039C274A68B" import="1">Art/GW_Henri-Matisse---Dance-II.dds</File>
+    <File md5="E2EDF92D75F082051A68F752EB29AF1B" import="1">Art/GW_Hieronymus-Bosch---The-Garden-of-Earthly-Delights.dds</File>
+    <File md5="C54DC67125E316A2928D56BF5AB44033" import="1">Art/GW_Jackson-Pollock---No-1.dds</File>
+    <File md5="4777D4080C0E878DCB3D1FCA5912D3C8" import="1">Art/GW_James-Ensor---The-Oyster-Eater.dds</File>
+    <File md5="32CC9CE427E7416F3A93E537C975F946" import="1">Art/GW_Jan-Asselijn---The-Threatened-Swan.dds</File>
+    <File md5="5D919EDD300FBC237BA509ACFDBDE761" import="1">Art/GW_Jan-Steen---As-The-Old-Sing-So-Twitter-the-Young.dds</File>
+    <File md5="05D5372EEDEE21A293CB55A4DA836C98" import="1">Art/GW_Jasper-Johns---Zero-Through-Nine.dds</File>
+    <File md5="360D184F1E0BA1837E3F318AAFC4A33D" import="1">Art/GW_Jean-Auguste-Dominique-Ingres---La-Grande-Odalisque.dds</File>
+    <File md5="AA36119915B2E352BC57619AC68A6C4B" import="1">Art/GW_Jean-Louis-Theodore-Gericault---The-Raft-of-the-Medusa.dds</File>
+    <File md5="D3C27AD05250383FA4F37CF8BF74DC9F" import="1">Art/GW_Joan-Miro---Harlequins-Carnival.dds</File>
+    <File md5="8BCDFD8016C98F5EE9C5E8C07C92EA6D" import="1">Art/GW_John-Singer-Sargent---Head-of-a-Capri-Girl.dds</File>
+    <File md5="4FCCCF56A10E22E0F9DFA9650C01C77A" import="1">Art/GW_Kazimir-Malevich---Black-Square.dds</File>
+    <File md5="33080B5C0AB19BDFAD31A8C7FF92302E" import="1">Art/GW_M-C-Escher---Ascending-and-Descending.dds</File>
+    <File md5="1A62F3B9753CBCCCE848DF4A66F0086C" import="1">Art/GW_Marc-Chagall---The-Birthday.dds</File>
+    <File md5="114922EBAF5E54E38AB168305E15CCFE" import="1">Art/GW_Marcel-Duchamp---Nude-Descending-a-Staircase-No-2.dds</File>
+    <File md5="636DF96FFA07B85C442E84FAE04667A1" import="1">Art/GW_Mark-Rothko---Orange-and-Yellow.dds</File>
+    <File md5="4B26BDDEA341D342E6BFF9CBA6A4DBDB" import="1">Art/GW_Masaccio---Baptism-of-the-Neophytes.dds</File>
+    <File md5="0E6C44DA044CE09A4B0D7A7B05948AA6" import="1">Art/GW_Max-Ernst---The-Triumph-of-Surrealism.dds</File>
+    <File md5="F2763AEC5C6ED00C073E7CE82B096667" import="1">Art/GW_Nicolas-Poussin---Spring-The-Earthly-Paradise.dds</File>
+    <File md5="5F4E3ABFD8463C228FAE2E07D6C16216" import="1">Art/GW_Norman-Rockwell---Boy-and-Girl-Gazing-at-the-Moon.dds</File>
+    <File md5="51907BC476DCCD9815746C4F3BD04F71" import="1">Art/GW_Parmigianino---The-Conversion-of-St-Paul.dds</File>
+    <File md5="58C0371A080503301C7047E0D99A1CB0" import="1">Art/GW_Paul-Klee---Ad-Parnassum.dds</File>
+    <File md5="B99066E2172E44E1EA674125062347E8" import="1">Art/GW_Paul-Signac---The-Papal-Palace-Avignon.dds</File>
+    <File md5="6D1C5E71EFDE5206C2A9FAB4F5F17E92" import="1">Art/GW_Piero-di-Cosimo---Liberazione-di-Andromeda.dds</File>
+    <File md5="891C27B7D184594E17E6164AE6E17478" import="1">Art/GW_Pierre-Bonnard---Fishing-Port.dds</File>
+    <File md5="98F58675FCDD0AA2145FEBA97FA1BFA1" import="1">Art/GW_Piet-Mondrian---Broadway-Boogie-Woogie.dds</File>
+    <File md5="C0E993AF4D2D4962BAC4BF984015C528" import="1">Art/GW_Quinten-Matsys---A-Grotesque-Old-Woman.dds</File>
+    <File md5="B363985B13E268F3B2AA14BAA3E18F87" import="1">Art/GW_Rene-Magritte---The-Son-of-Man.dds</File>
+    <File md5="502E405B3994FB2BE90BDB4CEBEFA691" import="1">Art/GW_Richard-Diebenkorn---Ocean-Park-No-27.dds</File>
+    <File md5="7483536E60F50ADC29BDD1C52AAF8401" import="1">Art/GW_Robert-Rauschenberg---Bed.dds</File>
+    <File md5="B4E32A7EE29AC0F68092D97771A54D12" import="1">Art/GW_Robert-Seldon-Duncanson---Still-Life-with-Fruit-and-Nuts.dds</File>
+    <File md5="37D82EC0DE06ACF3221F1D8867F74393" import="1">Art/GW_Rogier-van-der-Weyden---Saint-George-and-the-Dragon.dds</File>
+    <File md5="B09906F224F14862C8098B11A3B0C218" import="1">Art/GW_Rosa-Bonheur---The-Horse-Fair.dds</File>
+    <File md5="A9CD9C2D88F6B5C4DD12EBB0E7A77219" import="1">Art/GW_Rosso-Fiorentino---Playing-Putto-Musician-Angel.dds</File>
+    <File md5="A32949190A1DAE79918559B09749FBD3" import="1">Art/GW_Roy-Lichtenstein---Crying-Girl.dds</File>
+    <File md5="92D5FD4BD4BCDBAFF5280C29C568F09A" import="1">Art/GW_Salvador-Dali---The-Persistence-of-Memory.dds</File>
+    <File md5="FBF675B2D19CAD17385C27D4A8977496" import="1">Art/GW_Sam-Weber---Forester.dds</File>
+    <File md5="A3515446F09A03F4A0C6EA3B64764BFE" import="1">Art/GW_Susshu-Toyo---Haboku-Sansui.dds</File>
+    <File md5="C94954DAA79C49A3433AF7E230C4CF54" import="1">Art/GW_Theophanes---The-Dormition.dds</File>
+    <File md5="88AA0E6AD1028C778EA51187F9BAD787" import="1">Art/GW_Therese-Schwartze---Portret-van-Lizzie-Ansingh.dds</File>
+    <File md5="69509A08531E61B092FB3A14986A074D" import="1">Art/GW_Tom-Thomson---The-Jack-Pine.dds</File>
+    <File md5="9069843624B35EDDD2576EE01789243E" import="1">Art/GW_Umberto-Boccioni---States-of-Mind-I-The-Farewells.dds</File>
+    <File md5="F0BB5DBF455F0734B4B8890F2EB6E58C" import="1">Art/GW_Ustad-Mansur---Two-Cranes.dds</File>
+    <File md5="BF4C25C8D06F902509D24F83B4E4F7FA" import="1">Art/GW_Utagawa-Kuniyoshi---Hatsuhana-Doing-Penance-Under-the-Tonosawa-Waterfall.dds</File>
+    <File md5="B05CD87825EEE6F85C473EC4D227B977" import="1">Art/GW_Wassily-Kandinsky---The-Blue-Rider.dds</File>
+    <File md5="016721311FD883E5CDC00A3327E4DC91" import="1">Art/GW_Willem-de-Kooning---Woman.dds</File>
+    <File md5="f8394362a3cf1fa9238a1fc4356fb89e" import="1">Art/THREE_BODY.dds</File>
+    <File md5="DFC009FD89EE34730B2A5E4432325496" import="1">Art/GW_William-Turner---Rain-Steam-and-Speed-The-Great-Western-Railway.dds</File>
+    <File md5="967A4F718F1ECE2C8AB723FC011B4DCF" import="0">Writer - Text/TextInfo_GreatWorks_W01.xml</File>
+    <File md5="D86AABD8DBCCAA7081712961872A957B" import="0">Writer - Text/TextInfo_Units_W01.xml</File>
+    <File md5="9A47667C2EDFSDGFHADFEW193005D03A" import="0">Writer - Great Works/FDJ_GreatWorks.xml</File>
+    <File md5="bcd82ad03d59bc777a21127d5c1a07ea" import="0">Writer - Great Works/GreatWorks_W.xml</File>
+    <File md5="9A47667C2ED312E599D1F9193005D03A" import="0">Writer - Units/Units_W01.xml</File>
+    <File md5="9A47667C2EDAKLDGFNALDGKASPDGD03A" import="0">Writer - Text/FDJ_GW_Text.xml</File>
+    <File md5="9A476ALDKGJNASDOLKDFEW193005D03A" import="0">Writer - Text/FDJ_GN_Text.xml</File>
+    <File md5="f9871e5b6888c5a7cb06a17cb7af1443" import="0">Writer - Units/FDJ_GreatWriter.xml</File>
+    <File md5="2e5529af3ee80f2be894aa2f9c12be44" import="0">Writer - Text/CN_POETRY_Text.xml</File>
+    <File md5="44c72cb136603af2d2f7a5d05a2b2e1f" import="0">Writer - Great Works\CN_POETRY_GW.xml</File>
+    <File md5="a5a6e5213b24960deb1a900ee09b3203" import="0">Writer - Units\CN_POETRY_UW.xml</File>
+    <File md5="740123a73de46a4cc0b28789aa5ab039" import="0">UPDATE_MGW.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art - Great Works/GreatWorks_A.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_Units_A01.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_GreatWorks_A01.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Units/Units_A01.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W01.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W01.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W01.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/FDJ_GN_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/FDJ_GW_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/FDJ_GreatWorks.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/FDJ_GreatWriter.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/CN_POETRY_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works\CN_POETRY_GW.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units\CN_POETRY_UW.xml</UpdateDatabase>
+      <UpdateDatabase>UPDATE_MGW.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

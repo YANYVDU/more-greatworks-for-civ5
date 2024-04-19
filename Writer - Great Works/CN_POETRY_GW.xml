@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <GreatWorks>
+        <!-- <Row>
+			<Type>GREAT_WORK_POETRY_CN_001</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_POETRY_CN_001</Description>
+			<Quote>TXT_KEY_POETRY_QUOTE_CN_001</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+        <Row>
+			<Type>GREAT_WORK_POETRY_CN_002</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_POETRY_CN_002</Description>
+			<Quote>TXT_KEY_POETRY_QUOTE_CN_002</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row> -->
+    </GreatWorks>
+</GameData>

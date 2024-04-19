@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_EMPERORS_NEW_CLOTHES">
+			<Text>“可是他什么也没穿，”最后，所有的人都喊道。这给皇帝留下了深刻的印象，因为在他看来，他们是对的；但他心里想：“现在我必须坚持到底。”侍女们走得更有尊严，仿佛她们托着那列本不存在的火车。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_EMPERORS_NEW_CLOTHES">
+			<Text>皇帝的新衣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_WUTHERING_HEIGHTS">
+			<Text>“叛国和暴力是指向两端的长矛——它们对求助者的伤害比他们的敌人更大。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_WUTHERING_HEIGHTS">
+			<Text>呼啸山庄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_SOUND_AND_THE_FURY">
+			<Text>“我给你一座充满希望和欲望的陵墓。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_SOUND_AND_THE_FURY">
+			<Text>喧哗与骚动</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_ULYSSES">
+			<Text>“天才不会犯错误。他的错误是自愿的，是发现的门户。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_ULYSSES">
+			<Text>尤里西斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_FAUST">
+			<Text>“人会犯错，直到他停止奋斗。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_FAUST">
+			<Text>浮士德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_ELEMENTS_OF_STYLE">
+			<Text>恶心。恶心。第一个意思是“令人恶心的沉思”；第二个意思是是“胃部不适”。因此，除非你确信自己对他人有这种影响，否则不要说“我觉得恶心”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_ELEMENTS_OF_STYLE">
+			<Text>风格元素</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_TRIAL">
+			<Text>“对任何问题的正确理解和对同一问题的误解并不完全相互排斥。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_TRIAL">
+			<Text>审判</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_PIPPI_LONGSTOCKING">
+			<Text>“孩子们来到一家香水店。橱窗里放着一大罐祛斑膏，罐子旁边有一块牌子，上面写着：你是不是患了雀斑？”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_PIPPI_LONGSTOCKING">
+			<Text>长袜子皮皮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_LOLITA">
+			<Text>“我想强调的是，我发现她是我痛苦过去中‘海边王子’的致命后果。这两件事之间的一切都只是一系列的摸索和失误，以及虚假的喜悦。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_LOLITA">
+			<Text>洛丽塔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_GULLIVERS_TRAVELS">
+			<Text>“每个人都希望长寿，但没有人希望变老。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_GULLIVERS_TRAVELS">
+			<Text>格列佛游记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_RUM_DIARY">
+			<Text>“比赛不属于速度快的人，也不属于强者的战斗，而是属于那些看到比赛即将到来并跳到一边的人。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_RUM_DIARY">
+			<Text>朗姆酒日记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_BIG_SUR">
+			<Text>“雾说‘我们是雾，我们像蜉蝣一样溶解而飞’，树叶说‘我们就是树叶，我们在风中摇晃，仅此而已，我们来了又走，长了又落’——甚至我垃圾坑里的纸袋也说，‘我们是由木浆制成的经过改造的纸袋，只要有可能，我们就有点为自己是纸袋而自豪，但我们会和我们的姐妹们一起再次成为糊状——树叶我的雨季。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_BIG_SUR">
+			<Text>大瑟尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_UNDER_THE_VOLCANO">
+			<Text>“除了一个小小的灵魂托起一具尸体，什么是人？”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_UNDER_THE_VOLCANO">
+			<Text>火山下</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_LORD_OF_THE_FLIES">
+			<Text>“也许有一头野兽……也许只有我们。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_LORD_OF_THE_FLIES">
+			<Text>蝇王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_NAKED_LUNCH">
+			<Text>“要公正，如果你不能公正，就要武断。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_NAKED_LUNCH">
+			<Text>裸体午宴</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_CATCH_22">
+			<Text>“他决定要么永生，要么就死在这个尝试中。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_CATCH_22">
+			<Text>军规-22条</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_ROAD_NOT_TAKEN">
+			<Text>“在一个古老的地方：两条路在一片树林中分叉，而我——我选择了一条人迹罕至的路。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_ROAD_NOT_TAKEN">
+			<Text>从未选择的路</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_LION_THE_WITCH_AND_THE_WARDROBE">
+			<Text>“现在他们终于开始了《伟大故事》的第一章，这是世上没有人读过的：它将永远持续下去：每一章都比以前更好。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_LION_THE_WITCH_AND_THE_WARDROBE">
+			<Text>狮子、女巫、衣橱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_LORD_OF_THE_RINGS">
+			<Text>“所有的金子都不会闪闪发光，并不是所有流浪者都会迷失方向。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_LORD_OF_THE_RINGS">
+			<Text>指环王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_GRAPES_OF_WRATH">
+			<Text>“对其他人来说，这是一个错误，但如果你认为这是一种罪过，那就是一种罪过。一个家伙从一开始就制造了自己的罪过。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_GRAPES_OF_WRATH">
+			<Text>愤怒的格雷普斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_WASTE_LAND">
+			<Text>“我会在一把尘土中向你展示恐惧。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_WASTE_LAND">
+			<Text>荒原</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_DR_ZHIVAGO">
+			<Text>“几个世纪以来，使人凌驾于野兽之上的不是大棒，而是手无寸铁的真理的不可抗拒的力量。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_DR_ZHIVAGO">
+			<Text>日瓦格医生</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_ATLAS_SHRUGGED">
+			<Text>“在你的知识范围内生活和行动，并不断将其扩展到你生命的极限。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_ATLAS_SHRUGGED">
+			<Text>阿特拉斯耸耸肩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_ENDERS_GAME">
+			<Text>“当我真正了解我的敌人，充分了解他，打败他时，那一刻我也爱他。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_ENDERS_GAME">
+			<Text>安德的游戏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_A_CLOCKWORK_ORANGE">
+			<Text>“上帝想要善还是选择善？一个选择坏的人在某种程度上是否比一个把善强加给他的人更好？”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_A_CLOCKWORK_ORANGE">
+			<Text>发条橙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_CALL_OF_CTHULHU">
+			<Text>“那不是可以永远说谎的死，随着奇怪的年代，甚至死亡也可能死亡。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_CALL_OF_CTHULHU">
+			<Text>克苏鲁的呼唤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_LEVIATHAN">
+			<Text>“首先，我认为全人类都有一种普遍的倾向，一种对权力的永恒而不安的欲望，这种欲望只有在死亡时才会停止。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_LEVIATHAN">
+			<Text>利维坦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_POLITICS">
+			<Text>“不能在社会上生活的人，或者因为足够养活自己而没有必要的人，要么是野兽，要么是神。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_POLITICS">
+			<Text>政治</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_TROPIC_OF_CANCER">
+			<Text>“我们中没有一个人完好无损，但我们身上有所有的大陆、大陆之间的海洋和空中的鸟类。我们要把它放下——这个已经死亡但尚未被埋葬的世界的进化。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_TROPIC_OF_CANCER">
+			<Text>北回归线</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_BEYOND_GOOD_AND_EVIL">
+			<Text>“与怪物作战的人应该注意自己不会变成怪物。当你凝视深渊时，深渊也会凝视你。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_BEYOND_GOOD_AND_EVIL">
+			<Text>善恶的彼岸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_PARADISE_LOST">
+			<Text>“用武力战胜的人，只战胜了一半的敌人。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_PARADISE_LOST">
+			<Text>失乐园</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_HISTORIES">
+			<Text>“和平时儿子埋葬父亲，战争时父亲埋葬儿子。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_HISTORIES">
+			<Text>历史</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_OZYMANDIAS">
+			<Text>“‘我的名字叫奥齐曼迪亚斯，万王之王：看看我的作品，你这个强大的，绝望的人！’旁边什么都没有了。在那巨大残骸的腐烂周围，无边无际，光秃秃的孤独而平坦的沙滩延伸得很远。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_OZYMANDIAS">
+			<Text>奥西曼提斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_MANUFACTURING_CONSENT">
+			<Text>“如果你赞成言论自由，那就意味着你支持言论自由正是因为你鄙视的观点。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_MANUFACTURING_CONSENT">
+			<Text>创造共识</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_BURNING_IN_WATER_DROWNING_IN_FLAME">
+			<Text>“他们对不爱或不被爱并不感到恐惧；我的许多同胞。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_BURNING_IN_WATER_DROWNING_IN_FLAME">
+			<Text>地狱窃火记</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_TIGER">
+			<Text>“老虎！老虎！在黑夜的森林中燃烧着明亮的光芒，什么不朽的手或眼睛能构成你可怕的对称？”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_TIGER">
+			<Text>猛虎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_HARRY_POTTER_AND_THE_DEATHLY_HALLOWS">
+			<Text>“当然，这是在你的脑海里发生的，哈利，但这到底为什么意味着这不是真的？”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_HARRY_POTTER_AND_THE_DEATHLY_HALLOWS">
+			<Text>哈利波特与死亡圣器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_1_X_1">
+			<Text>“可怜这个忙得不可开交的怪物，麦肯金德，不是。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_1_X_1">
+			<Text>1 x 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_DEATH_OF_A_SALESMAN">
+			<Text>“永远不要和陌生人公平竞争，孩子。那样你永远无法走出丛林。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_DEATH_OF_A_SALESMAN">
+			<Text>推销员之死</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_FOUNDATION">
+			<Text>“永远不要让你的道德感妨碍你做正确的事情。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_FOUNDATION">
+			<Text>基地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_CRACK_THE_BLADE">
+			<Text>“你只能说出来，并且尽可能真实地说出来。说出来就是你所拥有的，因为只有你看到了你所看到的事情。有些人不会相信，他们也无能为力。不过，他们决不能因为谁能相信这些事情而受到指责？但是，有些人可能会。他们才是最重要的人。当我们告诉所有相信的人时，我们的工作就会完成。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_CRACK_THE_BLADE">
+			<Text>永别了武器</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_HEART_IS_A_LONELY_HUNTER">
+			<Text>“为什么每个人都坚持认为这个哑巴正是他们想要的样子——而这很可能是一个非常奇怪的错误？……在嘈杂的声音中，只有他一个人保持沉默。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_HEART_IS_A_LONELY_HUNTER">
+			<Text>同是天涯沦落人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_FAHRENHEIT_451">
+			<Text>“如果你隐藏自己的无知，没有人会打你，你永远也学不会。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_FAHRENHEIT_451">
+			<Text>华氏451度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_CATCHER_IN_THE_RYE">
+			<Text>“我总是对一个我一点也不高兴遇到的人说“很高兴见到你”。不过，如果你想活下去，你必须说这些话。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_CATCHER_IN_THE_RYE">
+			<Text>麦田里的守望者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THE_STAND">
+			<Text>“单独给我看一个男人或女人，我会给你看一个圣人。给我两个，他们会坠入爱河。给我三个，他们就会发明我们称之为‘社会’的迷人事物。给我四个，他们将建造一个金字塔。给我五个，他们就把一个变成了弃儿。给我六个，他们就能重塑偏见。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THE_STAND">
+			<Text>末日逼近</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_LE_MORTE_DARTHUR">
+			<Text>“爱的喜乐太短暂，爱的悲哀和所来的，都要长久”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_LE_MORTE_DARTHUR">
+			<Text>亚瑟之死</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_TO_THE_LIGHTHOUSE">
+			<Text>“这里有光，那里有影。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_TO_THE_LIGHTHOUSE">
+			<Text>到灯塔去</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_TO_KILL_A_MOCKINGBIRD">
+			<Text>“除非你从一个人的角度考虑问题，否则你永远不会真正理解他——除非你深入他的皮肤，在里面走来走去。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_TO_KILL_A_MOCKINGBIRD">
+			<Text>杀死一只知更鸟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_HEART_OF_DARKNESS">
+			<Text>“征服地球，主要意味着把它从那些肤色不同或鼻子比我们略扁的人手中夺走，当你仔细观察时，这并不是一件美好的事情。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_HEART_OF_DARKNESS">
+			<Text>黑暗之心</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_QQGROUP_W_U1">
+			<Text>“生命之短暂，宛若肌之雪瀛。恍恍然静息，浅浅然动晓。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QQGROUP_W_U1">
+			<Text>暮城</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_QQGROUP_W_U2">
+			<Text>“这就是变态的。”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QQGROUP_W_U2">
+			<Text>兔兔派评更多著作模组</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_QQGROUP_W_U3">
+			<Text>“诶嘿、啧、呵、6、笑”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QQGROUP_W_U3">
+			<Text>诶嘿怪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_THREE_BODY">
+			<Text>三体</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_THREE_BODY">
+			<Text>“我们，是同志了。“</Text>
+		</Row>
+		<!-- <Row Tag="TXT_KEY_GREATA_WORK_QUOTE_QQGROUP_W_U4">
+			<Text>“企业号是强权的内容吗？（疑问脸）”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRE。ATA_WORK_QQGROUP_W_U4">
+			<Text>云玩家论企业号</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREATA_WORK_QUOTE_QQGROUP_W_U5">
+			<Text>“文本都没做好就去做新内容，简直是顾头不顾腚！”</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRE。ATA_WORK_QQGROUP_W_U5">
+			<Text>顾头不顾腚</Text>
+		</Row> -->
+	</Language_en_US>
+</GameData>

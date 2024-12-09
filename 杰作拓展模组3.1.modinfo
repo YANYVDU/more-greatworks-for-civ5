@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mod id="b8186f84-5edc-4185-98ce-a91f18d767c7" version="3">
   <Properties>
-    <Name>更多美学与文学著作3.0</Name>
-    <Teaser>添加了大量美学与文学著作及对应的作者,适配没有修改大文学家及大美术家的所有mod</Teaser>
-    <Description>在Loren Sandboe (Qoma)的mod基础上，新增了大量文学作品，以中国传统诗词和文学作品为主</Description>
-    <Authors>"Loren Sandboe (Qoma)（原作者）、杜炎宇（美术翻译及诗词增补）、复读姬（文学翻译及内容增订）</Authors>
-    <SpecialThanks>Firaxis、 XboxAddict77、 donquiche、复读姬、想想想飞天、兔兔派、诶嘿怪、catgrep</SpecialThanks>
+    <Name>杰作拓展模组3.1</Name>
+    <Teaser>增添了大量杰作。</Teaser>
+    <Description>在原模组基础上，增添了大量杰作。</Description>
+    <Authors>"原作者：Loren Sandboe (Qoma)；联合更新作者：杜炎宇、复读姬</Authors>
+    <SpecialThanks>复读姬、Firaxis、 XboxAddict77、 donquiche、想想想飞天、兔兔派、诶嘿怪、catgrep</SpecialThanks>
     <HideSetupGame>0</HideSetupGame>
     <AffectsSavedGames>0</AffectsSavedGames>
     <SupportsSinglePlayer>1</SupportsSinglePlayer>
@@ -27,7 +27,7 @@
     <File md5="D98EFDB670BD232A66663668F242F214" import="0">Art - Text/TextInfo_GreatWorks_A01.xml</File>
     <File md5="96D405B90DB1C35EF0CC6ECD9B8D9633" import="0">Art - Text/TextInfo_Units_A01.xml</File>
     <File md5="EA04C324404C7B826CB49E86ACBAC8FE" import="0">Art - Units/Units_A01.xml</File>
-	  <File md5="cba14711b2de1cefc8e58465456c0e42" import="1">Art/GW_Alice-To-Catgrep.dds</File>
+    <File md5="cba14711b2de1cefc8e58465456c0e42" import="1">Art/GW_Alice-To-Catgrep.dds</File>
     <File md5="F93FBD787951659B4D6CA6C9FB1DEADC" import="1">Art/GW_Affandi-Cock-Fight.dds</File>
     <File md5="b2dc7510bf6b3ab7b7212d69d6ad592f" import="1">Art/GW_QQGROUP_U1.dds</File>
     <File md5="0d966b68863531e8207e3d67d56a4a1d" import="1">Art/GW_QQGROUP_U2.dds</File>
@@ -123,7 +123,30 @@
     <File md5="9A47667C2EDAKLDGFNALDGKASPDGD03A" import="0">Writer - Text/FDJ_GW_Text.xml</File>
     <File md5="9A476ALDKGJNASDOLKDFEW193005D03A" import="0">Writer - Text/FDJ_GN_Text.xml</File>
     <File md5="f9871e5b6888c5a7cb06a17cb7af1443" import="0">Writer - Units/FDJ_GreatWriter.xml</File>
-    <File md5="740123a73de46a4cc0b28789aa5ab039" import="0">UPDATE_MGW.sql</File>
+    <File md5="740123a73de46a4cc0b28789aa5ab039" import="0">UPDATE_MGW_W.sql</File>
+    <File md5="38e7b85116aaa17af2a3a7b752dd0e66" import="0">UPDATE_MGW_A.sql</File>
+    <File md5="0d25d128eca93addc161642db76d8798" import="0">UPDATE_MGW_M.sql</File>
+    <File md5="DFC009FD89EE34730B3A5E4432325496" import="1">Art - Music/MGW_M_1</File>
+    <File md5="DFC009FD89EE34730B4A5E4432325496" import="1">Art - Music/MGW_M_2</File>
+    <File md5="DFC009FD89EE34730B5A5E4432325496" import="1">Art - Music/MGW_M_3</File>
+    <File md5="DFC009FD89EE34730B6A5E4432325496" import="1">Art - Music/MGW_M_4</File>
+    <File md5="DFC009FD89EE34730B7A5E4432325496" import="1">Art - Music/MGW_M_5</File>
+    <File md5="DFC009FD89EE34730B8A5E4432325496" import="1">Art - Music/MGW_M_6</File>
+    <File md5="DFC009FD89EE34730B9A5E4432325496" import="1">Art - Music/MGW_M_7</File>
+    <File md5="DFC009FD89EE3473010A5E4432325496" import="1">Art - Music/MGW_M_8</File>
+    <File md5="DFC009FD89EE3473011A5E4432325496" import="1">Art - Music/MGW_M_9</File>
+    <File md5="DFC009FD89EE3473012A5E4432325496" import="1">Art - Music/MGW_M_10</File>
+    <File md5="DFC009FD89EE3473013A5E4432325496" import="1">Art - Music/MGW_M_11</File>
+    <File md5="DFC009FD89EE3473014A5E4432325496" import="1">Art - Music/MGW_M_12</File>
+    <File md5="DFC009FD89EE3473015A5E4432325496" import="1">Art - Music/MGW_M_13</File>
+    <File md5="DFC009FD89EE3473016A5E4432325496" import="1">Art - Music/MGW_M_14</File>
+    <File md5="DFC009FD89EE3473017A5E4432325496" import="1">Art - Music/MGW_M_15</File>
+    <File md5="DFC009FD89EE3473018A5E4432325496" import="1">Art - Music/MGW_M_16</File>
+    <File md5="DFC009FD89EE3473019A5E4432325496" import="1">Art - Music/MGW_M_17</File>
+    <File md5="DFC009FD89EE3473020A5E4432325496" import="1">Art - Music/MGW_M_18</File>
+    <File md5="DFC009FD89EE3473021A5E4432325496" import="1">Art - Music/MGW_M_19</File>
+    <File md5="DFC009FD89EE3473022A5E4432325496" import="1">Art - Music/MGW_M_20</File>
+
   </Files>
   <Actions>
     <OnModActivated>
@@ -139,7 +162,9 @@
       <UpdateDatabase>Writer - Text/FDJ_GW_Text.xml</UpdateDatabase>
       <UpdateDatabase>Writer - Great Works/FDJ_GreatWorks.xml</UpdateDatabase>
       <UpdateDatabase>Writer - Units/FDJ_GreatWriter.xml</UpdateDatabase>
-      <UpdateDatabase>UPDATE_MGW.sql</UpdateDatabase>
+      <UpdateDatabase>UPDATE_MGW_W.sql</UpdateDatabase>
+      <UpdateDatabase>UPDATE_MGW_A.sql</UpdateDatabase>
+      <UpdateDatabase>UPDATE_MGW_M.sql</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>

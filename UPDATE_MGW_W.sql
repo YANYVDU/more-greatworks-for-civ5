@@ -3,7 +3,8 @@ CREATE TABLE "NEW_MGW" (
     "TXT" TEXT,--文本内容
 	"UNIT" INTEGER DEFAULT 0,--写1表示该文本是大文名称，即作者名
 	"GW" INTEGER DEFAULT 0,--写1表示该文本是作品名
-    "QUOTE" INTEGER DEFAULT 0--写1表示该文本是引言
+    "QUOTE" INTEGER DEFAULT 0,--写1表示该文本是引言
+    "TYPE"  INTEGER DEFAULT 0--区分文学、艺术、音乐，默认的0为文学，1为艺术，2为音乐
 );
 INSERT INTO NEW_MGW(NUM, TXT, UNIT,GW,QUOTE)
 VALUES  (1,'李白',1,0,0),
@@ -53,11 +54,12 @@ VALUES  (1,'李白',1,0,0),
         (15,'“莫道不销魂，帘卷西风，人比黄花瘦。”',0,0,1),
         (16,'范仲淹',1,0,0),
         (16,'岳阳楼记',0,1,0),
-        (16,'“居庙堂之高则忧其民，处江湖之远则忧其君。”',0,0,1),
+        (16,'“居庙堂之高则忧其民，处江湖之远则忧其君。”',0,0,1);
 INSERT INTO Unit_UniqueNames (UnitType, UniqueName, GreatWorkType)
 SELECT 'UNIT_WRITER', 'TXT_KEY_WRITER_CN_' || NUM, 'GREAT_WORK_POETRY_CN_' || NUM
 FROM NEW_MGW
-WHERE UNIT = 1 AND NOT EXISTS (SELECT 1 FROM Unit_UniqueNames 
+WHERE UNIT = 1 AND TYPE = 0 AND
+NOT EXISTS (SELECT 1 FROM Unit_UniqueNames 
                   WHERE UniqueName = 'TXT_KEY_WRITER_CN_' || NUM 
                   OR GreatWorkType = 'GREAT_WORK_POETRY_CN_' || NUM);
 INSERT INTO GreatWorks (Type, GreatWorkClassType, Description, Quote, Audio, Image)
@@ -68,13 +70,13 @@ WHERE GW = 1 AND NOT EXISTS (SELECT 1 FROM GreatWorks WHERE Type = 'GREAT_WORK_P
 INSERT INTO Language_en_US (Tag, Text)
 SELECT 'TXT_KEY_WRITER_CN_' || NUM, TXT
 FROM NEW_MGW
-WHERE UNIT = 1 AND NOT EXISTS (SELECT 1 FROM Language_en_US WHERE Tag = 'TXT_KEY_WRITER_CN_' || NUM);
+WHERE UNIT = 1 AND TYPE = 0 AND NOT EXISTS (SELECT 1 FROM Language_en_US WHERE Tag = 'TXT_KEY_WRITER_CN_' || NUM);
 INSERT INTO Language_en_US (Tag, Text)
 SELECT 'TXT_KEY_POETRY_CN_' || NUM, TXT
 FROM NEW_MGW
-WHERE GW = 1 AND NOT EXISTS (SELECT 1 FROM Language_en_US WHERE Tag = 'TXT_KEY_POETRY_CN_' || NUM);
+WHERE GW = 1 AND TYPE = 0 AND NOT EXISTS (SELECT 1 FROM Language_en_US WHERE Tag = 'TXT_KEY_POETRY_CN_' || NUM);
 INSERT INTO Language_en_US (Tag, Text)
 SELECT 'TXT_KEY_POETRY_QUOTE_CN_' || NUM, TXT
 FROM NEW_MGW
-WHERE QUOTE = 1 AND NOT EXISTS (SELECT 1 FROM Language_en_US WHERE Tag = 'TXT_KEY_POETRY_QUOTE_CN_' || NUM);
+WHERE QUOTE = 1 AND TYPE = 0 AND NOT EXISTS (SELECT 1 FROM Language_en_US WHERE Tag = 'TXT_KEY_POETRY_QUOTE_CN_' || NUM);
 
